@@ -1,0 +1,30 @@
+{
+  "name": "postcss-pointer",
+  "version": "1.0.0",
+  "description": "A PostCSS plugin to to replace pointer: cursor with cursor: pointer",
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "cursor",
+    "pointer"
+  ],
+  "author": "Mark Goodyear <hello@markgoodyear.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markgoodyear/postcss-pointer.git"
+  },
+  "dependencies": {
+    "postcss": "^4.1.11"
+  },
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^0.14.0",
+    "gulp-mocha": "^2.1.1"
+  },
+  "scripts": {
+    "test": "gulp"
+  }
+}
