@@ -1,6 +1,6 @@
 {
   "name": "postcss-pointer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A PostCSS plugin to to replace pointer: cursor with cursor: pointer",
   "keywords": [
     "postcss",
